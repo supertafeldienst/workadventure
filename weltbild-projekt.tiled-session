@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "map.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 711.3333333333333,
+                "y": 808
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "weltbild.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1401.5151515151513,
+                "y": 636.3636363636364
+            }
+        },
+        "weltbild.json#floortileset": {
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+    ],
+    "project": "weltbild-projekt.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "weltbild.json",
+        "map.json"
+    ]
+}
